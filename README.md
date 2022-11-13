@@ -17,15 +17,12 @@
 
 - ⚡ Fun fact **I am funny and loves to travel and play basketball**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lokeshprasad12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lokeshprasad12" height="30" width="40" /></a>
 <a href="https://twitter.com/richak370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richak370" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokesh prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh prasad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lokesh-prasad-b3b896203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/_brightest_night" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brightest_night" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lokeshprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokeshprasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lokeshprasad125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshprasad125" height="30" width="40" /></a>
