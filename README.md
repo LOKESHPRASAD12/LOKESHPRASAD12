@@ -1,3 +1,7 @@
+![logo](https://github.com/LOKESHPRASAD12/LOKESHPRASAD12/blob/main/banner.png)
+
+
+
 <h1 align="center">Hi 👋, I'm LOKESH PRASAD</h1>
 <h3 align="center">A passionate developer from India actively looking for some great internship to get gain some practical knowledge.</h3>
 
